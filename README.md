@@ -17,12 +17,13 @@ The aim of this project is to analyze hotel booking data to identify factors tha
 * Explore the reasons behind these seasonal variations.
 * Explore the role of market segments and booking channels:
 
-Compare cancellation rates across different market segments (e.g., online travel agents, groups, corporate) and booking channels (e.g., direct, online, offline).
-Identify segments and channels with higher cancellation tendencies.
-Develop actionable recommendations to reduce cancellations:
+* Compare cancellation rates across different market segments (e.g., online travel agents, groups, corporate) and booking channels (e.g., direct, online, offline).
+* Identify segments and channels with higher cancellation tendencies.
+* Develop actionable recommendations to reduce cancellations:
 
 * Based on the insights gained from the analysis, propose strategies to mitigate cancellation risks.
-* These strategies could include adjusting pricing strategies, implementing targeted promotions, improving booking flexibility, enhancing customer communication, and optimizing booking processes.
+* These strategies could include adjusting pricing strategies, implementing targeted promotions, improving booking flexibility, enhancing customer communication, and 
+  optimizing booking processes.
 * Evaluate the potential impact of these recommendations:
 
 * Estimate the potential reduction in cancellation rates and the associated increase in revenue if the recommendations are implemented.
